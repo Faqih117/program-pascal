@@ -1,4 +1,4 @@
-#Pascal (bahasa pemrograman)
+# Pascal (bahasa pemrograman)
 Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
 
 Pascal adalah bahasa pemrograman yang pertama kali di buat oleh [Profesor Niklaus Wirth](https://id.wikipedia.org/wiki/Niklaus_Wirth), 
@@ -6,7 +6,7 @@ seorang anggota International Federation of Information Processing (IFIP) pada t
 Dengan mengambil nama dari matematikawan Prancis, Blaise Pascal, yang pertama kali menciptakan mesin penghitung, Profesor Niklaus Wirth membuat bahasa Pascal ini sebagai alat bantu untuk mengajarkan konsep pemrograman komputer kepada mahasiswanya. 
 Selain itu, Profesor Niklaus Wirth membuat Pascal juga untuk melengkapi kekurangan-kekurangan bahasa pemrograman yang ada pada saat itu.
 
-##Kelebihan
+## Kelebihan
 Kelebihan dari bahasa pemrograman Pascal adalah:
 * **Tipe Data Standar**, tipe-tipe data standar yang telah tersedia pada kebanyakan bahasa pemrograman. Pascal memiliki tipe data standar: boolean, integer, real, char, string,
 * **User defined Data Types**, programmer dapat membuat tipe data lain yang diturunkan dari tipe data standar.
